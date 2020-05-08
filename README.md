@@ -1,6 +1,7 @@
 # Resistal
 
-Resistal is a Vidalia alternative that supports devices running the Windows. Resistal protects network traffic using The Onion Router (Tor) network. Tor encrypts the data and sends it through random points across the world to hide where the connection started. For example, while using Resistal, a website you visit might think you're looking at it from another country.
+##### Resistal is abbreviation of Digital Resistance.
+Resistal is a Vidalia alternative that supports devices running the Windows. Resistal protects network traffic using The Onion Router (TOR) network. Tor encrypts the data and sends it through random points across the world to hide where the connection started. For example, while using Resistal, a website you visit might think you're looking at it from another country.
 
 To benefit from Resistal, you must configure your apps to use it as a proxy. Resistal provides a local Socks5 proxy on port 9050 and an HTTP proxy on port 8118.
 
