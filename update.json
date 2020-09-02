@@ -1,0 +1,13 @@
+{
+  "Version": "16.3.1.2",
+  "VersionCode": 1631200101,
+  "SHA256": "55FA0D114F11E8C13B93DAFF377DB77120AEC7EB72AD36285B73044C3595727E",
+  "FileName": "Resistal.apk",
+  "Url1": "https://raw.githubusercontent.com/ResistalProxy/resistal/master/Resistal.apk",
+  "Url2": "http://resistal.ru/download/Resistal.apk",
+  "ForceUpdate": "True",
+  "ReleaseNotes": [
+    "- New look and feel",
+    "- Bug fixes and other minor improvements"
+  ]
+}
