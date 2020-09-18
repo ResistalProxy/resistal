@@ -1,13 +1,13 @@
 {
-  "Version": "16.3.1.2",
-  "VersionCode": 1631200101,
-  "SHA256": "55FA0D114F11E8C13B93DAFF377DB77120AEC7EB72AD36285B73044C3595727E",
+  "Version": "16.3.1.3",
+  "VersionCode": 1631300502,
+  "SHA256": "B75E996C57884554E8396B651656211CBBA82191B755BB249664E048A89C5204",
   "FileName": "Resistal.apk",
   "Url1": "https://raw.githubusercontent.com/ResistalProxy/resistal/master/Resistal.apk",
   "Url2": "http://resistal.ru/download/Resistal.apk",
-  "ForceUpdate": "True",
+  "ForceUpdate": "False",
   "ReleaseNotes": [
-    "- New look and feel",
+    "- Added shortcuts for easy set proxy",
     "- Bug fixes and other minor improvements"
   ]
 }
