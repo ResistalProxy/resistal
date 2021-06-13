@@ -11,6 +11,8 @@ Download ResistalProxy.zip and extract file, then Run Resistal.exe.
 #### Android
 https://play.google.com/store/apps/details?id=ru.resistal.android
 
+
+## Set Proxy
 #### Telegram
 For the Telegram app (Desktop): Settings -> Advanced -> Network and proxy -> Connection type -> Add Proxy -> SOCKS5 Proxy -> Server: 127.0.0.1 (or localhost) and Proxy Port to 9050.
 
