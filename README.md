@@ -5,8 +5,11 @@ Resistal is a Vidalia alternative that supports devices running the Windows. Res
 
 To benefit from Resistal, you must configure your apps to use it as a proxy. Resistal provides a local Socks5 proxy on port 9050 and an HTTP proxy on port 8118.
 
-#### Install
+## Install
+#### Windows
 Download ResistalProxy.zip and extract file, then Run Resistal.exe.
+#### Android
+https://play.google.com/store/apps/details?id=ru.resistal.android
 
 #### Telegram
 For the Telegram app (Desktop): Settings -> Advanced -> Network and proxy -> Connection type -> Add Proxy -> SOCKS5 Proxy -> Server: 127.0.0.1 (or localhost) and Proxy Port to 9050.
